@@ -1,0 +1,6 @@
+	["giftbox"] = {
+		label = "Gift Box",
+		weight = 1000,
+		stack = true,
+		close = true,
+	},
